@@ -1,2 +1,2 @@
 # predictRUL
-This project is to replicate INCEPTION BASED DEEP CONVOLUTIONAL NEURAL NETWORK FOR REMAINING USEFUL LIFE ESTIMATION OF TURBOFAN ENGINES.
+This project is to predict RUL of an aircraft engine(CMAPSS).
